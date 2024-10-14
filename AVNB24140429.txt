@@ -1,0 +1,27 @@
+==================================================================================
+Fabricante = Avell
+Modelo = A52 ION
+BIOS = N.1.13AVE01
+Numero de Serie = AVNB24140429 
+-
+Processador = 12th Gen Intel(R) Core(TM) i7-12650H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 3200
+Mhz = 3200
+Serial = F6290000
+Serial = 0D2A0000
+PartNumber = AD4S3200716G22-BHYC 
+PartNumber = AD4S3200716G22-BHYC 
+======= SSD =======  
+- 
+Modelo = HFS512GEJ9X108N
+Modelo = ADATA USB Flash Drive USB Device
+Serial = 0000_0000_0000_0000_40D5_6300_4B00_0C92.
+Serial = AA00000000000489

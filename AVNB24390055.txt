@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell
+Modelo = A52i
+BIOS = N.1.04Ave01
+Numero de Serie = AVNB24390055 
+-
+Processador = 13th Gen Intel(R) Core(TM) i7-13620H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 5600
+Mhz = 5600
+Serial = 03002969
+Serial = 03002974
+PartNumber = AD5S560016G8-BHYA   
+PartNumber = AD5S560016G8-BHYA   
+======= SSD =======  
+- 
+Modelo = FORESEE XP2000F512G
+Serial = 0000_0007_1234_5678_3A5A_2700_0000_35A1.

@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell
+Modelo = 145
+BIOS = BM_BI_IDL819-10_150B_K
+Numero de Serie = AVNB24270414 
+-
+Processador = 12th Gen Intel(R) Core(TM) i7-1255U
+======= MEMORIA RAM =======  
+- 
+Marca = 0x0B5E
+Marca = 0x0B5E
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 8589934592
+Quantidade = 8589934592
+Mhz = 3200
+Mhz = 3200
+Serial = 3B0952EC
+Serial = 3B0952CA
+PartNumber = HEMA81GS6DJR8N-XN   
+PartNumber = HEMA81GS6DJR8N-XN   
+======= SSD =======  
+- 
+Modelo = HFS512GEJ9X110N
+Serial = 0000_0000_0000_0000_40D5_6300_3B00_160E.

@@ -1,0 +1,29 @@
+==================================================================================
+Fabricante = Avell
+Modelo = STORM X
+BIOS = N.1.22AVE00
+Numero de Serie = None 
+-
+Processador = 13th Gen Intel(R) Core(TM) i7-13700HX
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 5600
+Mhz = 5600
+Serial = 03000009
+Serial = 03000006
+PartNumber = AD5S560016G8-BHYA   
+PartNumber = AD5S560016G8-BHYA   
+======= SSD =======  
+- 
+Modelo =  USB  SanDisk 3.2Gen1 USB Device
+Modelo = KINGSTON SNV2S2000G
+Modelo = XPG GAMMIX S70 BLADE
+Serial = 0401bdac2571656bfc13
+Serial = 0000_0000_0000_0000_0026_B778_51E3_DA15.
+Serial = 0000_0000_0000_0000_707C_181E_E5CF_0AF4.

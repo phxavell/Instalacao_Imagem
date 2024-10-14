@@ -1,0 +1,132 @@
+[smi.c:483] H2OGetParamBufferPtr() Read variable IhisiParamBuffer failed[smi_func.c:92] FindSmiMainFuncNum() Search IHISI signature...
+[smi_func.c:109] FindSmiMainFuncNum() SMI Main Function Number (use default) = 0xEF
+[smi.c:232] InitIhisiCmdBufV2() Enter
+[smi_func.c:3835] H2OChangeAuth() ExecutionResult: 0xef
+[smi.c:238] InitIhisiCmdBufV2() 84h not supported
+[smi_func.c:3703] H2OGetReservedMemIHISI() ExecutionResult: 0xef
+[Acpi.c:408] GetReservedMemAcpi() Enter
+[Acpi.c:177] InitACPITables() 
+[Acpi.c:182] InitACPITables() Starting to search RSDP...
+[Acpi.c:184] InitACPITables() Search RSDP in UEFI mode...
+[WinInsydeAcpi.c:348] H2OGetRsdpPhysicalAddrUefi() Is UEFI mode = TRUE
+[WinInsydeAcpi.c:357] H2OGetRsdpPhysicalAddrUefi() Got XSDT raw data!
+[WinInsydeAcpi.c:416] H2OGetRsdpPhysicalAddrUefi() APCI Address: start(0x404FE000), high(0x43704000) and low(0x43629000), size(0x3A01000)!
+[WinInsydeAcpi.c:52] win_search_rsdp_address() Find RSDP signature!
+[WinInsydeAcpi.c:468] H2OGetAcpiEntryUefi() Allocate RSDP successfully
+[Acpi.c:40] GetXsdtRsdtTblFromPhy() Read XSDT (64bit)
+[Acpi.c:49] GetXsdtRsdtTblFromPhy() XSDT/RSDT Address=4374d728
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4374d728
+[Acpi.c:58] GetXsdtRsdtTblFromPhy() This is XSDT (64bit)
+[Acpi.c:83] GetAllEntryTables() 
+[Acpi.c:100] GetAllEntryTables() Entry count=30
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x436ca000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=FACP
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x437b1000
+[Acpi.c:133] GetAllEntryTables() ACPI signature=FACS
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43661000
+[Acpi.c:149] GetAllEntryTables() ACPI signature=DSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x436cb000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43660000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=FIDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x436d4000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4365a000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43657000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43653000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x436d3000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=HPET
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43652000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=APIC
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43651000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=MCFG
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43647000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43645000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43704000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=UEFI
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43644000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=NHLT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43643000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=LPIT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4363f000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4363c000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4363b000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=DBGP
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4363a000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=DBG2
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43638000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43637000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=DMAR
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43636000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43632000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4362e000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4362d000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=SSDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4362b000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=TPM2
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4362a000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=PHAT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43629000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=FPDT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x4362c000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=BGRT
+[WinInsydeAcpi.c:541] GetTableByAddr() Addr=0x43642000
+[Acpi.c:117] GetAllEntryTables() ACPI signature=WSMT
+[Acpi.c:262] GetAcpiTableRawData() AcpiInfo->Count=32
+[Acpi.c:270] GetAcpiTableRawData() Signature=FACP
+[Acpi.c:270] GetAcpiTableRawData() Signature=FACS
+[Acpi.c:270] GetAcpiTableRawData() Signature=DSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=FIDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=HPET
+[Acpi.c:270] GetAcpiTableRawData() Signature=APIC
+[Acpi.c:270] GetAcpiTableRawData() Signature=MCFG
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=UEFI
+[Acpi.c:270] GetAcpiTableRawData() Signature=NHLT
+[Acpi.c:270] GetAcpiTableRawData() Signature=LPIT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=DBGP
+[Acpi.c:270] GetAcpiTableRawData() Signature=DBG2
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=DMAR
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=SSDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=TPM2
+[Acpi.c:270] GetAcpiTableRawData() Signature=PHAT
+[Acpi.c:270] GetAcpiTableRawData() Signature=FPDT
+[Acpi.c:270] GetAcpiTableRawData() Signature=BGRT
+[Acpi.c:270] GetAcpiTableRawData() Signature=WSMT
+[Acpi.c:418] GetReservedMemAcpi() IHIS Table Not Found
+[Acpi.c:419] GetReservedMemAcpi() Leave
+[smi_func.c:278] InitAcpiCmdBuf() This is for KERNEL_DRIVER
+[smi_func.c:1670] H2OSmiDumpDmiInfo() return 0x47
+[smi_func.c:1670] H2OSmiDumpDmiInfo() return 0x47
+[smi_func.c:1719] H2OSmiDumpDmiRawData() return 0x47
+[smi.c:272] RelIhisiCmdBufV2() Enter
+[smi_func.c:3799] H2OAuthUnlock() ExecutionResult: 0xef
+[smi.c:277] RelIhisiCmdBufV2() Leave
+[wdf_func.cpp:1041] RemoveCallback() ROOT\INSYDESEG\0000                                         
+[wdf_func.cpp:1189] KillDriverFile() Delete driver file success.
+[wdf_func.cpp:1193] KillDriverFile() Find installed driver inf filename...
+[wdf_func.cpp:1202] KillDriverFile() OEM Inf: oem5.inf
+[wdf_func.cpp:1211] KillDriverFile() Delete driver success.

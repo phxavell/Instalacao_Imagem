@@ -1,0 +1,61 @@
+OUTPUT = ''
+
+MSG = ''
+
+for ORDEM_VENDAS in records:
+  
+  BLOQUEIO = False
+  CONFIRMADA = False
+  
+  #L1 - Ordem de venda
+  if ORDEM_VENDAS.name:
+    # OUTPUT += '%s\n' % ORDEM_VENDAS.name
+    # OUTPUT += 'Vendedor: %s\n' % ORDEM_VENDAS.user_id.name
+    pass
+  else:
+    BLOQUEIO = True
+    OUTPUT += "Falha em L1 (Ordem de venda)\n"
+
+
+  #L2 - Cliente pagante
+  if not ORDEM_VENDAS.partner_id.name:
+    BLOQUEIO = True
+    OUTPUT += "Falha em L2 (Ordem sem cliente pagante)\n"
+
+  #L11 - Venda confimada
+  if not (ORDEM_VENDAS.state == "sale"):
+    BLOQUEIO = True
+    OUTPUT += """
+    
+        VENDA NÃO CONFIRMADA!.
+    
+    """
+
+  if BLOQUEIO:
+
+    OUTPUT += """
+    
+        HÁ ERROS NESTE PEDIDO! SOLICITAR SUPORTE.
+    
+    """
+
+##### FIM DO BLOCO DE VENDAS ####
+# COMEÇA AQUI A RECURSÃO DE MANUFATURAS
+
+
+
+
+  for PRODUCAO in env["mrp.production"].search([
+    ('origin', '=', ORDEM_VENDAS.name),
+    ('state', '!=', 'cancel'),]):
+ 
+    SERIAL = ''
+
+    if PRODUCAO.finished_move_line_ids.lot_id.name:
+      SERIAL = PRODUCAO.finished_move_line_ids.lot_id.name
+      #MSG += "---> Equipamento finalizado na %s, sob número de série: [ %s ]\n" % (PRODUCAO.name, PRODUCAO.finished_move_line_ids.lot_id.name)
+
+    OUTPUT += "%s\n" % SERIAL
+
+
+raise Warning(OUTPUT)

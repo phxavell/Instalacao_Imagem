@@ -1,0 +1,31 @@
+==================================================================================
+Fabricante = Avell High Performance
+Modelo = A70 HYB
+BIOS = N.1.10AVE04
+Numero de Serie = AVNB22340639 
+-
+Processador = 12th Gen Intel(R) Core(TM) i7-12700H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 4800
+Mhz = 4800
+Serial = 00019394
+Serial = 00020269
+PartNumber = AD5S480016G-B       
+PartNumber = AD5S480016G-B       
+======= SSD =======  
+- 
+Modelo = XPG GAMMIX S50 Lite
+Modelo = IM2P33F8ABR1-512GB
+Modelo = Kingston DataTraveler 3.0 USB Device
+Modelo = ADATA USB Flash Drive USB Device
+Serial = 0000_0000_0000_0000_707C_1800_2322_787C.
+Serial = 0000_0000_0000_0000_0000_0000_0000_0001.
+Serial = 0000000005
+Serial = AA00000000000489

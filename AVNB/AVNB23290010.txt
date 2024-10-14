@@ -1,0 +1,21 @@
+==================================================================================
+Fabricante = Avell
+Modelo = B.ON
+BIOS = 1.07.06TBN
+Numero de Serie = AVNB23290010 
+-
+Processador = 12th Gen Intel(R) Core(TM) i5-1235U
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Quantidade = 17179869184
+Mhz = 3200
+Serial = 21020000
+PartNumber = AD4S3200316G22-BHYD 
+======= SSD =======  
+- 
+Modelo = SM2P32A8-512GC1
+Modelo = ADATA USB Flash Drive USB Device
+Serial = 0000_0000_0000_0000_707C_1877_800E_0AEE.
+Serial = AA00000000000489

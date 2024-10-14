@@ -1,0 +1,27 @@
+==================================================================================
+Fabricante = Avell High Performance
+Modelo = A70 MOB
+BIOS = N.1.07AVE00
+Numero de Serie = AVNB23020085 
+-
+Processador = 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 3200
+Mhz = 3200
+Serial = 00220000
+Serial = F4210000
+PartNumber = AD4S3200316G22-BHYD 
+PartNumber = AD4S3200316G22-BHYD 
+======= SSD =======  
+- 
+Modelo = SM2P32A8-512GC1
+Modelo = Generic- SD/MMC USB Device
+Serial = 0000_0000_0000_0000_707C_1871_2C6C_16FA.
+Serial = 2012090114345300

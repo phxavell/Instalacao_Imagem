@@ -1,0 +1,21 @@
+==================================================================================
+Fabricante = Avell
+Modelo = STORM X
+BIOS = N.1.15STD00
+Numero de Serie = AVNB23330104 
+-
+Processador = 13th Gen Intel(R) Core(TM) i9-13900HX
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Mhz = 4800
+Serial = 00196384
+PartNumber = AD5S480016G-B       
+======= SSD =======  
+- 
+Modelo = ADATA USB Flash Drive USB Device
+Modelo = KINGSTON SNV2S2000G
+Serial = AA00000000000489
+Serial = 0000_0000_0000_0000_0026_B778_51E3_DA15.

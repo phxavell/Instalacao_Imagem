@@ -1,0 +1,29 @@
+==================================================================================
+Fabricante = Avell
+Modelo = 470
+BIOS = N.1.07AVE00
+Numero de Serie = AVNB24310054 
+-
+Processador = Intel(R) Core(TM) i9-14900HX
+======= MEMORIA RAM =======  
+- 
+Marca = 0x0B5E
+Marca = 0x0B5E
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 34359738368
+Quantidade = 34359738368
+Mhz = 4800
+Mhz = 4800
+Serial = 44108583
+Serial = 4410857D
+PartNumber = HEHMCG88MEBSA095N   
+PartNumber = HEHMCG88MEBSA095N   
+======= SSD =======  
+- 
+Modelo = SM2P41C8-001TC1
+Modelo = KINGSTON SNV2S2000G
+Modelo = Generic- SD/MMC USB Device
+Serial = 0000_0000_0000_0000_707C_1805_0429_1905.
+Serial = 0000_0000_0000_0000_0026_B728_31ED_4A95.
+Serial = 2012090114345300

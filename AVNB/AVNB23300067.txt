@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell
+Modelo = A52 HYB NEW
+BIOS = N.1.08AVE04
+Numero de Serie = AVNB23300067 
+-
+Processador = 12th Gen Intel(R) Core(TM) i5-12450H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 8589934592
+Quantidade = 8589934592
+Mhz = 3200
+Mhz = 3200
+Serial = 3B010000
+Serial = 31020000
+PartNumber = AD4S320038G22-BHYD  
+PartNumber = AD4S320038G22-BHYD  
+======= SSD =======  
+- 
+Modelo = SM2P32A8-512GC1
+Serial = 0000_0000_0000_0000_707C_181E_630B_FF01.

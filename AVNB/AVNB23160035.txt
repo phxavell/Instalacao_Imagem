@@ -1,0 +1,27 @@
+==================================================================================
+Fabricante = Avell High Performance
+Modelo = A70 HYB BS
+BIOS = N.1.08AVE04
+Numero de Serie = AVNB23160035 
+-
+Processador = 12th Gen Intel(R) Core(TM) i7-12700H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 8589934592
+Quantidade = 8589934592
+Mhz = 3200
+Mhz = 3200
+Serial = 241A0000
+Serial = D1170000
+PartNumber = AD4S320038G22-BHYD  
+PartNumber = AD4S320038G22-BHYD  
+======= SSD =======  
+- 
+Modelo = SM2P32A8-512GC1
+Modelo = ADATA USB Flash Drive USB Device
+Serial = 0000_0000_0000_0000_707C_187B_5839_B3E2.
+Serial = AA00000000000489

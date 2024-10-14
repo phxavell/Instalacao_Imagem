@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell
+Modelo = A52 HYB NEW
+BIOS = N.1.04Ave01
+Numero de Serie = AVNB24250232 
+-
+Processador = 13th Gen Intel(R) Core(TM) i7-13620H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 34359738368
+Quantidade = 34359738368
+Mhz = 5600
+Mhz = 4800
+Serial = 03001993
+Serial = 00252689
+PartNumber = AD5S560032G16-BHYA  
+PartNumber = AD5S480032G-B       
+======= SSD =======  
+- 
+Modelo = SM2P41C8-001TC1
+Serial = 0000_0000_0000_0000_707C_1805_0929_190D.

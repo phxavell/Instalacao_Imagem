@@ -1,0 +1,29 @@
+==================================================================================
+Fabricante = Avell
+Modelo = STORM GO
+BIOS = N.1.07AVE00
+Numero de Serie = AVNB24020001 
+-
+Processador = Intel(R) Core(TM) i9-14900HX
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 5600
+Mhz = 5600
+Serial = 03000209
+Serial = 03000575
+PartNumber = AD5S560016G8-BHYA   
+PartNumber = AD5S560016G8-BHYA   
+======= SSD =======  
+- 
+Modelo = IM2P33F8ABR1-1TB
+Modelo = FORESEE XP2000F512G
+Modelo = Generic- SD/MMC USB Device
+Serial = 0000_0000_0000_0000_0000_0000_0000_0001.
+Serial = 0000_0007_1234_5678_3A5A_2700_0000_0ABF.
+Serial = 2012090114345300

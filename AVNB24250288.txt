@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell
+Modelo = STORM X
+BIOS = N.1.22AVE00
+Numero de Serie = AVNB24250288 
+-
+Processador = 13th Gen Intel(R) Core(TM) i9-13900HX
+======= MEMORIA RAM =======  
+- 
+Marca = 0x0B5E
+Marca = 0x0B5E
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 8589934592
+Quantidade = 8589934592
+Mhz = 5600
+Mhz = 5600
+Serial = 44220DED
+Serial = 44220E0C
+PartNumber = HEKMCG66AGBSBC0BN   
+PartNumber = HEKMCG66AGBSBC0BN   
+======= SSD =======  
+- 
+Modelo = KINGSTON SNV2S2000G
+Serial = 0000_0000_0000_0000_0026_B728_31ED_B475.

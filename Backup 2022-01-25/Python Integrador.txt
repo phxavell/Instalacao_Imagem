@@ -1,0 +1,121 @@
+[AV-LBL-BASE-002] Adesivo Gabinete 17 Inferior 95x15,5
+
+
+
+
+
+
+import sap_connect_v1 as sp
+
+
+
+
+url2 = "https://177.85.33.53:50579/b1s/v1/Orders(724)?$select=ItemDescription"
+
+
+
+url2 = "https://177.85.33.53:50579/b1s/v1/Orders?$select=DocEntry,DocNum,DocType&$filter=DocEntry=17"
+
+
+
+
+url2 = "https://177.85.33.53:50579/b1s/v1/Orders(17)"
+
+dbbb=dbbbb[1:-1]
+# IMPORTANTISSIMO
+
+
+import requests
+
+
+### PODE SER UTIL
+      {
+         "name" : "SerialNumberDetails",
+         "kind" : "EntitySet",
+         "url" : "SerialNumberDetails"
+      },
+
+
+url2 = "https://177.85.33.53:50579/b1s/v1/OBJ_SERVICO" #para pegar o numero de serie
+
+session.verify = False
+
+url = "https://177.85.33.53:50579/b1s/v1/Login"
+data = '{"CompanyDB": "SBO_AVELL_PRD", "UserName": "manager", "Password": "Ramo01"}'
+
+
+"https://177.85.33.53:50579/b1s/v1/Items?$select=ItemCode,ItemName&$filter=startswith(ItemCode, 'MN000001') &$orderby=ItemCode&$top=10&$skip=1"
+
+
+>>> import sap_connect as conn
+>>> import sap_config
+>>> from urllib3.exceptions import InsecureRequestWarning
+
+>>> session = requests.Session()
+>>> session.verify = False
+
+
+
+url2 = "https://177.85.33.53:50579/b1s/v1/Orders(17)?$select=DocumentLines"
+
+url2 = "https://177.85.33.53:50579/b1s/v1/Orders?$select=DocEntry,DocNum,DocType&$filter=DocNum eq '724'"
+
+
+ 
+ 
+ 
+url2 = "https://177.85.33.53:50579/b1s/v1/Orders?$filter=DocEntry eq17"
+bbb = session.get(url2) 
+print(bbb.text) 
+
+
+for n in db['DocumentLines']:
+    print(n.get('ItemDescription'))
+
+
+
+data = '{"CompanyDB": "SBO_AVELL_PRD", "UserName": "manager", "Password": "Ramo01"}'
+
+
+
+url2 = "https://177.85.33.53:50579/b1s/v1/"
+bbb = session.get(url2) 
+print(bbb.text) 
+
+
+
+
+import sap_config as sap
+import time
+import requests
+from urllib3.exceptions import InsecureRequestWarning
+import urllib3
+import json
+
+global session
+session = requests.Session()
+session.verify = False
+
+def connect():
+
+    data = '''{"CompanyDB": "%s", "UserName": "%s", "Password": "%s"}''' % (sap.COMPANYDB, sap.USERNAME, sap.PASSWORD)
+    url=sap.URL
+    urllib3.disable_warnings()
+    aaa = session.post(url,data)
+    #session = requests.Session()
+    #session.verify = False
+    return aaa
+
+
+def libera():
+    url2 = "https://177.85.33.53:50579/b1s/v1/Orders?$filter=startswith(DocNum,'724')"
+    bbb = session.get(url2)
+    db = json.loads(bbb.text)
+    for n in db['value']:
+        t1 = nb.get(
+        db1 =  
+        for n in db1['DocumentLines']:
+            return (n.get('ItemDescription'))
+    #return bbb
+
+

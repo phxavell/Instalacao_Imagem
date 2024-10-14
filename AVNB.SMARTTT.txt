@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell
+Modelo = Smart
+BIOS = 1.07.02TBN1
+Numero de Serie = AVNB.SMARTTT 
+-
+Processador = Intel(R) Core(TM) Ultra 7 155H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 5600
+Mhz = 5600
+Serial = 03000597
+Serial = 03000207
+PartNumber = AD5S560016G8-BHYA   
+PartNumber = AD5S560016G8-BHYA   
+======= SSD =======  
+- 
+Modelo = WDC PC SN720 SDAPNTW-512G-1006
+Serial = E823_8FA6_BF53_0001_001B_444A_4435_8204.

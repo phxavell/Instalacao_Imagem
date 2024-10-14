@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell High Performance
+Modelo = A52 MOB
+BIOS = N.1.05AVE04
+Numero de Serie = AVNB23220098 
+-
+Processador = 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 8589934592
+Quantidade = 8589934592
+Mhz = 3200
+Mhz = 3200
+Serial = 73040000
+Serial = 6A040000
+PartNumber = AD4S320038G22-BHYD  
+PartNumber = AD4S320038G22-BHYD  
+======= SSD =======  
+- 
+Modelo = SM2P32A8-512GC1
+Serial = 0000_0000_0000_0000_707C_180A_3BF3_C593.

@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell
+Modelo = A70 ION
+BIOS = N.1.10AVE01
+Numero de Serie = AVNB24320056 
+-
+Processador = 13th Gen Intel(R) Core(TM) i7-13700H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 8589934592
+Quantidade = 8589934592
+Mhz = 5600
+Mhz = 5600
+Serial = 03012408
+Serial = 03012253
+PartNumber = AD5S56008G4-BHYA    
+PartNumber = AD5S56008G4-BHYA    
+======= SSD =======  
+- 
+Modelo = SM2P41C8-512GC1
+Serial = 0000_0000_0000_0000_707C_1805_0802_1956.

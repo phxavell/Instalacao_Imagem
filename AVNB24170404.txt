@@ -1,0 +1,27 @@
+==================================================================================
+Fabricante = Avell
+Modelo = A52 HYB NEW
+BIOS = N.1.08AVE00
+Numero de Serie = AVNB24170404 
+-
+Processador = 13th Gen Intel(R) Core(TM) i7-13700H
+======= MEMORIA RAM =======  
+- 
+Marca = 0x0B5E
+Marca = 0x0B5E
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 34359738368
+Quantidade = 34359738368
+Mhz = 4800
+Mhz = 4800
+Serial = 35170000
+Serial = 03170000
+PartNumber = HEHMCG88MEBSA095N   
+PartNumber = HEHMCG88MEBSA095N   
+======= SSD =======  
+- 
+Modelo = XPG GAMMIX S70 BLADE
+Modelo = ADATA USB Flash Drive USB Device
+Serial = 0000_0000_0000_0000_707C_1808_AD47_B129.
+Serial = AA00000000000489

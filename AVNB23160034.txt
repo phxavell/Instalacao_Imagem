@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell High Performance
+Modelo = STORM TWO
+BIOS = N.1.13AVE05
+Numero de Serie = AVNB23160034 
+-
+Processador = 12th Gen Intel(R) Core(TM) i7-12700H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 34359738368
+Quantidade = 34359738368
+Mhz = 5600
+Mhz = 5600
+Serial = 03002013
+Serial = 03002042
+PartNumber = AD5S560032G16-BHYA  
+PartNumber = AD5S560032G16-BHYA  
+======= SSD =======  
+- 
+Modelo = Sabrent
+Serial = 6479_A74F_40C0_0D0F.

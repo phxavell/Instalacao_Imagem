@@ -1,0 +1,27 @@
+==================================================================================
+Fabricante = Avell
+Modelo = A72 ION
+BIOS = N.1.08AVE00
+Numero de Serie = AVNB24060273 
+-
+Processador = 13th Gen Intel(R) Core(TM) i7-13700H
+======= MEMORIA RAM =======  
+- 
+Marca = 0x0B5E
+Marca = 0x0B5E
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 4800
+Mhz = 4800
+Serial = 391B0000
+Serial = 381B0000
+PartNumber = HEHMCG78MEBSA092N   
+PartNumber = HEHMCG78MEBSA092N   
+======= SSD =======  
+- 
+Modelo = ADATA USB Flash Drive USB Device
+Modelo = SM2P41C8-001TC1
+Serial = AA00000000000489
+Serial = 0000_0000_0000_0000_707C_1805_0402_190D.

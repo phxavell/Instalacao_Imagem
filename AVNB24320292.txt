@@ -1,0 +1,25 @@
+==================================================================================
+Fabricante = Avell
+Modelo = Smart
+BIOS = 1.07.02TBN1
+Numero de Serie = AVNB24320292 
+-
+Processador = Intel(R) Core(TM) Ultra 7 155H
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 34359738368
+Quantidade = 34359738368
+Mhz = 5600
+Mhz = 5600
+Serial = 03000480
+Serial = 03000520
+PartNumber = AD5S560032G16-BHYA  
+PartNumber = AD5S560032G16-BHYA  
+======= SSD =======  
+- 
+Modelo = SM2P41C8-001TC5
+Serial = 0000_0000_0000_0000_C105_0027_0118_7C70.

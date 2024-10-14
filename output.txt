@@ -1,0 +1,26 @@
+==================================================================================
+INFORMACOES DO NOTEBOOK
+Fabricante = Avell High Performance
+Modelo = A70 MOB
+BIOS = N.1.07AVE00
+Numero de Serie = AVNB22130302
+-
+Processador = 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+MEMORIA RAM
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 3200
+Mhz = 3200
+Serial = A2020000
+Serial = 04020000
+PartNumber = AD4S3200316G22-BHYD 
+PartNumber = AD4S3200316G22-BHYD 
+Modelo = ADATA SX8200PNP
+Modelo = Generic- SD/MMC USB Device
+Serial = 2K312LAD2JWE        _00000001.
+Serial = 2012090114345300
+        0 file(s) copied.

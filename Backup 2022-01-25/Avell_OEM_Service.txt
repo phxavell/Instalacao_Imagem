@@ -1,0 +1,114 @@
+﻿GK7MR0R (C62D107E)
+         OemServiceWinApp.exe SetApCtrl /clear
+         OemServiceWinApp.exe SetApCtrl /MK 0 /WK 1 /FB 1 /RGBKB 0 /CHINA 0 /OC 0
+         OemServiceWinApp.exe oemtdr /settdr 0xa
+         OemServiceWinApp.exe RGBKB /set 005050
+         OemServiceWinApp.exe SetApCtrl /RGBKB 1
+         OemServiceWinApp.exe SetApCtrl /BL 0
+         OemServiceWinApp.exe AdpType /set 2
+         OemServiceWinApp.exe turbomode /set 1
+         OemServiceWinApp.exe Nbtype /Table 36
+         OemServiceWinApp.exe modelid /set 0
+         AMIDEWINx64.exe /OS 16 "1D051097R1110100"
+
+GK5MR0V (A62D107E)
+         OemServiceWinApp.exe SetApCtrl /clear
+         OemServiceWinApp.exe SetApCtrl /MK 0 /WK 1 /FB 1 /RGBKB 0 /CHINA 0 /OC 0
+         OemServiceWinApp.exe oemtdr /settdr 0xa
+         OemServiceWinApp.exe RGBKB /set 005050
+         OemServiceWinApp.exe SetApCtrl /RGBKB 1
+         OemServiceWinApp.exe SetApCtrl /BL 0
+         OemServiceWinApp.exe AdpType /set 2
+         OemServiceWinApp.exe turbomode /set 1
+         OemServiceWinApp.exe Nbtype /Table 36
+         OemServiceWinApp.exe Modelid /set 2
+         AMIDEWINx64.exe /OS 16 "1D051097V1110100"
+
+GM5MP0W (A65D107E)
+         OemServiceWinApp.exe SetApCtrl /clear
+         OemServiceWinApp.exe SetApCtrl /MK 0 /WK 1 /FB 1 /RGBKB 0 /CHINA 0 /OC 0
+         OemServiceWinApp.exe oemtdr /settdr 0xa
+         OemServiceWinApp.exe SetApCtrl /BL 1
+         OemServiceWinApp.exe rgblb /setmode 1
+         OemServiceWinApp.exe AdpType /set 1
+         OemServiceWinApp.exe turbomode /set 1
+         OemServiceWinApp.exe Modelid /set 7
+         OemServiceWinApp.exe Nbtype /Table 36
+         AMIDEWINx64.exe /OS 16 "1D051096W1110100"
+
+GM5MP7W (A65D107F):
+   	OemServiceWinApp.exe SetApCtrl /clear
+        OemServiceWinApp.exe SetApCtrl /MK 0 /WK 1 /FB 1 /RGBKB 0 /CHINA 0 /OC 0
+        OemServiceWinApp.exe oemtdr /settdr 0xa
+        OemServiceWinApp.exe SetApCtrl /BL 1
+        OemServiceWinApp.exe rgblb /setmode 1
+        OemServiceWinApp.exe AdpType /set 1
+        OemServiceWinApp.exe turbomode /set 1
+        OemServiceWinApp.exe Modelid /set 7
+        OemServiceWinApp.exe Nbtype /Table 36
+        AMIDEWINx64.exe /OS 16 "1D05108BW1110100"
+
+GM7MPHP： (C65D107F)
+       OemServiceWinApp.exe SetApCtrl /clear
+       OemServiceWinApp.exe SetApCtrl /MK 0 /WK 1 /FB 1 /RGBKB 0 /CHINA 0 /OC 0
+       OemServiceWinApp.exe oemtdr /settdr 0xa
+       OemServiceWinApp.exe kblbid /setkbl 1
+       OemServiceWinApp.exe SetApCtrl /BL 1
+       OemServiceWinApp.exe rgblb /setmode 1
+       OemServiceWinApp.exe AdpType /set 1
+       OemServiceWinApp.exe turbomode /set 1
+       OemServiceWinApp.exe Modelid /set 4
+       AMIDEWINx64.exe /OS 16 "1D05108AP1110100"
+       OemServiceWinApp.exe Nbtype /Table 36
+
+GM7MQ8P: (C65D107G)
+       OemServiceWinApp.exe SetApCtrl /clear
+       OemServiceWinApp.exe SetApCtrl /MK 0 /WK 1 /FB 1 /RGBKB 0 /CHINA 0 /OC 0
+       OemServiceWinApp.exe oemtdr /settdr 0xa
+       OemServiceWinApp.exe kblbid /setkbl 1
+       OemServiceWinApp.exe SetApCtrl /CHINA 1
+       OemServiceWinApp.exe SetApCtrl /BL 1
+       OemServiceWinApp.exe rgblb /setmode 1
+       OemServiceWinApp.exe AdpType /set 1
+       OemServiceWinApp.exe turbomode /set 1
+       OemServiceWinApp.exe Modelid /set 4
+        AMIDEWINx64.exe /OS 16 "1D051089P1110100"
+       OemServiceWinApp.exe Nbtype /Table 36
+
+GK5MRFV (A62D107D)
+OemServiceWinApp.exe SetApCtrl /clear
+       OemServiceWinApp.exe SetApCtrl /MK 0 /WK 1 /FB 1 /RGBKB 0 /CHINA 0 /OC 0
+       OemServiceWinApp.exe oemtdr /settdr 0xa
+       OemServiceWinApp.exe RGBKB /set 005050
+       OemServiceWinApp.exe SetApCtrl /RGBKB 1
+       OemServiceWinApp.exe SetApCtrl /BL 0
+       OemServiceWinApp.exe AdpType /set 4
+       OemServiceWinApp.exe turbomode /set 0
+       OemServiceWinApp.exe Modelid /set 2
+      OemServiceWinApp.exe Nbtype /Table 36
+AMIDEWINx64.exe /OS 16 "1D051099V1110100"
+
+GK7MRFR (C62D107D)
+OemServiceWinApp.exe SetApCtrl /clear
+       OemServiceWinApp.exe SetApCtrl /MK 0 /WK 1 /FB 1 /RGBKB 0 /CHINA 0 /OC 0
+       OemServiceWinApp.exe oemtdr /settdr 0xa
+       OemServiceWinApp.exe RGBKB /set 005050
+       OemServiceWinApp.exe SetApCtrl /RGBKB 1
+       OemServiceWinApp.exe SetApCtrl /BL 0
+       OemServiceWinApp.exe AdpType /set 3
+       OemServiceWinApp.exe turbomode /set 1
+       OemServiceWinApp.exe Modelid /set 0
+OemServiceWinApp.exe Nbtype /Table 36
+       AMIDEWINx64.exe /OS 16 "1D051099R1110100"
+        
+PF4PN2F (A40A35M)
+OemServiceWinApp.exe SetApCtrl /clear
+       OemServiceWinApp.exe SetApCtrl /MK 0 /WK 1 /FB 1 /RGBKB 0 /CHINA 0 /OC 0
+       OemServiceWinApp.exe oemtdr /settdr 0xa
+       OemServiceWinApp.exe SetApCtrl /BL 0
+       OemServiceWinApp.exe Subwoofer /set 0
+       OemServiceWinApp.exe kblbid /setkbl 1
+       OemServiceWinApp.exe KBLSupport /Set 1
+       OemServiceWinApp.exe AdpType /set 6
+       OemServiceWinApp.exe Nbtype /Table 33
+

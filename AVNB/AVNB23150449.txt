@@ -1,0 +1,27 @@
+==================================================================================
+Fabricante = Avell
+Modelo = B.ON
+BIOS = 1.07.08TBN1
+Numero de Serie = AVNB23150449 
+-
+Processador = 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+======= MEMORIA RAM =======  
+- 
+Marca = A-DATA Technology
+Marca = A-DATA Technology
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 8589934592
+Quantidade = 8589934592
+Mhz = 3200
+Mhz = 3200
+Serial = 72180000
+Serial = E3170000
+PartNumber = AD4S320038G22-BHYD  
+PartNumber = AD4S320038G22-BHYD  
+======= SSD =======  
+- 
+Modelo = Kingston DataTraveler 3.0 USB Device
+Modelo = SM2P32A8-256GC1
+Serial = 0000000005
+Serial = 0000_0000_0000_0000_707C_1870_B466_BDFB.

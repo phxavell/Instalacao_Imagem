@@ -1,0 +1,27 @@
+==================================================================================
+Fabricante = Avell
+Modelo = A65 ION
+BIOS = N.1.09AVE00
+Numero de Serie = AVNB24170611 
+-
+Processador = 12th Gen Intel(R) Core(TM) i9-12900HX
+======= MEMORIA RAM =======  
+- 
+Marca = 0x0B5E
+Marca = 0x0B5E
+Slot = Controller0-ChannelA-DIMM0
+Slot = Controller1-ChannelA-DIMM0
+Quantidade = 17179869184
+Quantidade = 17179869184
+Mhz = 4800
+Mhz = 4800
+Serial = 4306C225
+Serial = 4306C1D0
+PartNumber = HEHMCG78MEBSA092N   
+PartNumber = HEHMCG78MEBSA092N   
+======= SSD =======  
+- 
+Modelo = ADATA USB Flash Drive USB Device
+Modelo = HFS512GEJ9X108N
+Serial = AA00000000000489
+Serial = 0000_0000_0000_0000_40D5_6300_4B01_3316.
